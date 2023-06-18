@@ -1,0 +1,5 @@
+flyway.user=root
+flyway.password=RootRoot11
+flyway.schemas=sys
+flyway.url=jdbc:mysql://127.0.0.1:3306/sys
+flyway.locations=filesystem:db/migration
